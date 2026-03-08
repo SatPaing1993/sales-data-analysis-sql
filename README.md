@@ -36,6 +36,10 @@ These tables are joined together to create analytical outputs for business insig
 
 ## Data Model
 
+Here is the Star Schema of the project:
+<img width="1536" height="1024" alt="Project star schema" src="https://github.com/user-attachments/assets/d8440076-01bc-4e57-9a69-0ccfa908ce90" />
+
+
 ### Fact Table
 
 The fact table combines transactional data to calculate sales values.
@@ -110,6 +114,12 @@ This project enables analysis such as:
 * PostgreSQL
 * Microsoft Excel
 * GitHub
+
+## Power BI Dashboard
+Here is the dashboard view:
+<img width="1920" height="1050" alt="ScreenShot of CapStoneProject" src="https://github.com/user-attachments/assets/2b74400d-78da-4a8d-ab3c-dfddb468c1ce" />
+
+Download the full Power BI file here:
 
 ---
 
