@@ -120,7 +120,7 @@ Here is the dashboard view:
 <img width="1920" height="1050" alt="ScreenShot of CapStoneProject" src="https://github.com/user-attachments/assets/2b74400d-78da-4a8d-ab3c-dfddb468c1ce" />
 
 Download the full Power BI file here:
-[Dashboard.pbix](PowerBI/Dashboard.pbix)
+[PowerBI_Dashboard.pbix](PowerBI_Dashboard.pbix)
 ---
 
 ## Author
